@@ -20,5 +20,5 @@ A cross‑platform React Native application using TypeScript, React Native Paper
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MyFoodTruckApp.git
+   git clone https://github.com/hamzapatwa/MyFoodTruckApp.git
    cd MyFoodTruckApp
